@@ -1,0 +1,10 @@
+# Visual Studio temporary files
+.vs/
+*.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Environment variables (Safety check)
+.env
